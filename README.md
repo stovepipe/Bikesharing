@@ -4,10 +4,22 @@ August 2019 CitiBike usage data visualization with Tableau
 
 ## Overview of the Analysis
 
+A bike trip plausability analysis for Des Moines, Iowa using Citi Bike data from August 2019 in New York City. The analysis utilizes user trip data to determine peak usage times and customer demographics. Assuming that, while scaled, the New York City data represents what could happen in Des Moines, this analysis will demonstrate proof of concept for the new location launch.
+
 ## Results
 
-[link to dashboard](https://public.tableau.com/app/profile/zach.mehlenbacher/viz/BikesharingAnalysis_16468505514540/CitibikeAnalysis?publish=yes "link to dashboard")
+[link to dashboard](https://public.tableau.com/app/profile/zach.mehlenbacher/viz/BikesharingAnalysis_16468505514540/CitibikeAnalysis?publish=yes)
 
+
+![Checkout_Times_by_Gender.png]
+
+![Checkout_Times_for_Users.png]
+
+![Trips_by_Gender_Weekday_per_Hour.png]
+
+![Trips_by_Weekday_per_Hour.png]
+
+![User_Trips_by_Gender_by_Weekday.png]
 
 ## Summary
 
