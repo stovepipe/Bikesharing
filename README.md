@@ -27,9 +27,11 @@ In this heatmap, the analysis shows that the most use occurs on weekdays during 
 ![User_Trips_by_Gender_by_Weekday.png](https://github.com/stovepipe/Bikesharing/blob/main/Resources/User_Trips_by_Gender_by_Weekday.png)
 In this heatmap, the analysis shows that while not only do males dominate the bike usage, but they are also the most likely to be subscription-based customers.
 
-![August_Peak_Hours.png]()
+![August_Peak_Hours.png](https://github.com/stovepipe/Bikesharing/blob/main/Resources/August_Peak_Hours.png)
+In this bar graph, the analysis shows the peak usage hours for the dataset.
 
-![Gender_Breakdown.png]()
+![Gender_Breakdown.png](https://github.com/stovepipe/Bikesharing/blob/main/Resources/Gender_Breakdown.png)
+In this pie chart, the analysis shows the breakdown of users filtered by gender. Note the difference between male and female users.
 
 ## Summary
 
